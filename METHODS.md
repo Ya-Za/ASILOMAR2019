@@ -3,5 +3,18 @@ The dimensionality  reduction  procedure used to identify the  spatiotemporal se
 
 [![Algorithms](assets/figures/algs.png "Algorithms")](assets/figures/algs.pdf)
 
+## Results
+### Map of Sensitivity Indeces
+![Sensitivity Map](assets/figures/sensitivity-map.png "Sensitivity Map")
+### Map of Effective STUs
+![Effective STUs Map](assets/figures/effective-stus-map.png "Effective STUs Map")
+### Model Fitted Kernel
+![Kernel](assets/figures/kernel.png "Kernel")
+### Model Prediction Accuracy
+#### MT Sample Neuron
+![MT Sample Neuron](assets/figures/accuracy-sample.png "MT Sample Neuron")
+#### MT Population (30 Neurons)
+![MT Population](assets/figures/accuracy-population.png "MT Population")
+
 ## References
 [1] Niknam, K., Akbarian, A., Clark, K., Zamani, Y., Noudoost, B., & Nategh, N. (2019). Characterizing and dissociating multiple time-varying modulatory computations influencing neuronal activity. PLoS computational biology, 15(9), e1007275. [[HTML] from plos.org](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007275)
