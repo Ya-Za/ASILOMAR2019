@@ -4,6 +4,7 @@ The dimensionality  reduction  procedure used to identify the  spatiotemporal se
 [![Algorithms](assets/figures/algs.png "Algorithms")](assets/figures/algs.pdf)
 
 ## Results
+> All the following figures plotted for the neuron id `1505111501` and its receptive field proble location (probe index `52`). For more details see [[1](#references)].
 ### Map of Sensitivity Indeces
 ![Sensitivity Map](assets/figures/sensitivity-map.png "Sensitivity Map")
 ### Map of Effective STUs
